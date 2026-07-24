@@ -21,7 +21,7 @@
 <br/>
 
 <!-- Optional: coding gif -->
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/dummy.svg" width="0"/>
+<!-- <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/dummy.svg" width="0"/> -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
 
 </div>
