@@ -6,7 +6,7 @@
 <div align="center">
 
 <!-- Wave banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi..%F0%9F%91%8B%2C+i'm%20Shifan%20NV&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer&descAlignY=60&descSize=20" width="100%"/> 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi+%F0%9F%91%8B%2C+I'm%20Shifan%20NV&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer&descAlignY=60&descSize=20" width="100%"/> 
 
 <br/>
 <!-- Anime-style coding gif, dark theme -->
