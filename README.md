@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header" width="100%"/>
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=36&duration=2500&pause=800&color=A78BFA&background=00000000&center=true&vCenter=true&width=700&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Shifan+NV" alt="Name Animation" />
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=C4B5FD&center=true&vCenter=true&width=600&height=35&lines=Full+Stack+Developer" alt="Role Animation" />
+<img src="https://raw.githubusercontent.com/Shifannv/Shifannv/main/assets/wave-banner.svg" width="100%"/>
 
 </div>
 
