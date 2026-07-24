@@ -38,7 +38,7 @@ const shifan = {
   role: "Full Stack Developer",
   location: "Kerala, India",
   stack: ["React", "Next.js", "Node.js", "Database" , "Cloudinary"],
-  currentlyLearning: "Advanced JavaScript",
+  currentlyLearning: "backend building, gen ai",
   openToWork: true
 };
 ```
