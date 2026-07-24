@@ -1,6 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Shifan%20NV&fontAlign=50&fontAlignY=38&color=0:0f172a,50:312e81,100:7c3aed&fontColor=ffffff&fontSize=48&desc=Full%20Stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Shifan%20NV&fontAlign=50&fontAlignY=38&color=0:0f172a,50:312e81,100:7c3aed&fontColor=ffffff&fontSize=48&desc=Full%20Stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn"/> -->
 
-*
+
 <div align="center">
 
 <!-- Animated typing intro -->
@@ -25,15 +25,13 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
 
 </div>
-*
+
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+Laravel;Building+modern+web+experiences;Always+learning+new+things)](https://git.io/typing-svg)
 
 <br/>
 
-![](https://img.shields.io/badge/Open%20To%20Work-22c55e?style=for-the-badge&logo=vercel&logoColor=white)
-![](https://img.shields.io/badge/Kerala-India-7c3aed?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 </div>
 
