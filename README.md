@@ -7,7 +7,12 @@
 
 <!-- Wave banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi+%F0%9F%91%8B%2C+I'm%20Shifan%20NV&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer&descAlignY=60&descSize=20" width="100%"/> 
-
+<img
+    src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3pkMHBhd2h5dHBleGRoZDV0a2UzemhwaWE5ODEzcGU5ZDRjcXZmeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif"
+    alt="Coding GIF"
+    width="220"
+    align="middle"
+  />
 <br/>
 <!-- Anime-style coding gif, dark theme -->
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="450">
