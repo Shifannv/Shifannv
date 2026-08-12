@@ -52,8 +52,6 @@ const shifan = {
 };
 ```
 
----
-
 #  Tech Stack
 
 <div align="center">
@@ -69,17 +67,24 @@ const shifan = {
 
 </div>
 
+
 ---
 
-#  GitHub Stats
+# GitHub Stats
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shifannv&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shifannv&theme=tokyonight" width="95%" />
 
-<img width="49%" src="https://streak-stats.demolab.com?user=Shifannv&theme=tokyonight&hide_border=true&background=0D1117" />
+<br />
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shifannv&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shifannv&theme=tokyonight" width="48%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shifannv&theme=tokyonight" width="48%" />
+
+<br />
+
+<img src="https://streak-stats.demolab.com?user=Shifannv&theme=tokyonight&hide_border=true" width="70%" />
 
 </div>
 
