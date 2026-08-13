@@ -46,8 +46,8 @@
 const shifan = {
   role: "Full Stack Developer",
   location: "Kerala, India",
-  stack: ["React", "Next.js", "Node.js", "Database" , "Cloudinary"],
-  currentlyLearning: "backend building, gen ai",
+  stack: ["React native", "Next.js", "Expo", "Database", "firebase"],
+  currentlyLearning: "Full Stack building, gen ai",
   openToWork: true
 };
 ```
@@ -82,25 +82,10 @@ const shifan = {
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shifannv&theme=tokyonight" width="48%" />
 
-<br />
-
-<img src="https://streak-stats.demolab.com?user=Shifannv&theme=tokyonight&hide_border=true" width="70%" />
 
 </div>
 
----
 
-# Currently Learning
-
-<div align="center">
-
-![](https://img.shields.io/badge/Advanced%20JavaScript-facc15?style=for-the-badge&logo=javascript&logoColor=000)
-![](https://img.shields.io/badge/Design%20Patterns-8b5cf6?style=for-the-badge)
-![](https://img.shields.io/badge/Performance%20Optimization-22c55e?style=for-the-badge)
-
-</div>
-
----
 
 #  Connect With Me
 
