@@ -87,7 +87,7 @@ const shifan = {
 
 
 
-#  Connect With Me
+<!--  #  Connect With Me
 
 <div align="center">
 
@@ -101,7 +101,7 @@ const shifan = {
 
 ![](https://komarev.com/ghpvc/?username=Shifannv&style=for-the-badge&color=8b5cf6)
 
-</div>
+</div>  -->
 
 ---
 
