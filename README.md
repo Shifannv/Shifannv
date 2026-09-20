@@ -23,7 +23,7 @@
 
 
 <!-- Status badges -->
-![Open to Work](https://img.shields.io/badge/-OPEN%20TO%20WORK-2ea043?style=for-the-badge)
+<!-- ![Open to Work](https://img.shields.io/badge/-OPEN%20TO%20WORK-2ea043?style=for-the-badge) -->
 ![Location](https://img.shields.io/badge/-KERALA-333?style=for-the-badge&logo=googlemaps&logoColor=white)
 ![Country](https://img.shields.io/badge/-INDIA-6f42c1?style=for-the-badge)
 
