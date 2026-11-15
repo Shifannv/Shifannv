@@ -44,10 +44,8 @@
 
 ```js
 const shifan = {
-  role: "Full Stack Web Developer | React Native App Developer "
+  role: "Frontend/Full Stack Web Developer | React Native App Developer "
   location: "Kerala, India",
-  stack: ["React native", "Next.js", "Expo","Express","Mongodb", "Database", "firebase"],
-  currentlyLearning: "Full Stack building, gen ai",
   openToWork: true
 };
 ```
