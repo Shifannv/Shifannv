@@ -9,6 +9,11 @@
     width="220"
   />
 </div> -->
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=1200&color=8B5CF6&center=true&vCenter=true&width=650&lines=Building+modern+web+applications;Developing+mobile+experiences;Exploring+Cloud+%26+DevOps;Learn.+Build.+Improve.+Repeat.)](https://git.io/typing-svg)
+
+</div>
 
 
 <div align="center">
@@ -20,13 +25,8 @@
     align="middle"
   />
 <br/>
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=1200&color=8B5CF6&center=true&vCenter=true&width=650&lines=Building+modern+web+applications;Developing+mobile+experiences;Exploring+Cloud+%26+DevOps;Learn.+Build.+Improve.+Repeat.)](https://git.io/typing-svg)
-
-</div>
 <!-- Anime-style coding gif, dark theme -->
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="450">
+<!-- <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="450"> -->
 
 
 <!-- Status badges -->
