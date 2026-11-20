@@ -1,6 +1,11 @@
+<!-- <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Shifan+NV;Full+Stack+Web+Developer;React+Native+App+Developer;Open+to+Work.." alt="Typing animation" /> -->
+<!-- </p> -->
+
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Shifan+NV;Full+Stack+Web+Developer;React+Native+App+Developer;Open+to+Work.." alt="Typing animation" />
-
+</p>
 
 <div align="center">
   <img
@@ -10,8 +15,12 @@
   />
 </div>
 
-</p>
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=1200&color=8B5CF6&center=true&vCenter=true&width=650&lines=Building+modern+web+applications;Developing+mobile+experiences;Exploring+Cloud+%26+DevOps;Learn.+Build.+Improve.+Repeat.)](https://git.io/typing-svg)
+
 </div>
+
 
 <!-- <div align="center">
 
