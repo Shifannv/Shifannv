@@ -39,31 +39,61 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
 
 </div>
+---
 
-#  About Me
+# 🚀 About Me
 
-```js
-const shifan = {
-  role: "Frontend/Full Stack Web Developer | React Native App Developer "
-  location: "Kerala, India",
-  openToWork: true
-};
-```
+- 💻 Software Engineer focused on building full-stack web and mobile applications.
+- 📍 Based in Kerala, India.
+- ⚙️ Experienced in frontend development, backend APIs, databases and cloud deployment.
+- 📱 Built web and mobile applications using Next.js, React Native and Expo.
+- 🛒 Worked on e-commerce platforms, payment workflows and role-based dashboards.
+- 🔄 Interested in real-time features, secure authentication and scalable application architecture.
+- 🤝 Enjoy collaborating with teams and turning ideas into working products.
 
-#  Tech Stack
+# 🛠️ Tech Arsenal
 
 <div align="center">
 
+### Languages
+<img src="https://skillicons.dev/icons?i=javascript,typescript,python&theme=dark" />
+
 ### Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vue&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind&theme=dark" />
+<br/>
 
-### Backend & Database
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,mysql,mongodb,postgres,python&theme=dark" />
+### Backend & APIs
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" />
+<br/>
+<img src="https://img.shields.io/badge/Hono-E36002?style=flat&logo=hono&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_APIs-2563EB?style=flat" />
+<img src="https://img.shields.io/badge/Server--Sent_Events-0F766E?style=flat" />
 
-### Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,vercel&theme=dark" />
+### Databases & ORM
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,supabase&theme=dark" />
+<br/>
+<img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat&logo=drizzle&logoColor=black" />
+
+### Auth & Integrations
+<img src="https://img.shields.io/badge/Better_Auth-171717?style=flat" />
+<img src="https://img.shields.io/badge/Google_OAuth-4285F4?style=flat&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/RBAC_%2F_RLS-6D28D9?style=flat" />
+<img src="https://img.shields.io/badge/Cashfree-00B96B?style=flat" />
+<img src="https://img.shields.io/badge/Resend-000000?style=flat&logo=resend&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase_Cloud_Messaging-FFCA28?style=flat&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/Gmail_API-EA4335?style=flat&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai&logoColor=white" />
+
+### Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=cloudflare,gcp,docker,git,github&theme=dark" />
+<br/>
+<img src="https://img.shields.io/badge/Cloudflare_Workers%20%7C%20Pages%20%7C%20Hyperdrive%20%7C%20R2-F38020?style=flat&logo=cloudflare&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Cloud_Run%20%7C%20VM-4285F4?style=flat&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat&logo=githubactions&logoColor=white" />
 
 </div>
+
+
 
 
 
