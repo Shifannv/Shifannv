@@ -1,6 +1,17 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Shifan+NV;Full+Stack+Web+Developer;React+Native+App+Developer;Open+to+Work.." alt="Typing animation" />
+
+
+<div align="center">
+  <img
+    src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3pkMHBhd2h5dHBleGRoZDV0a2UzemhwaWE5ODEzcGU5ZDRjcXZmeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif"
+    alt="Coding GIF"
+    width="220"
+  />
+</div>
+
 </p>
+</div>
 
 <!-- <div align="center">
 
@@ -39,7 +50,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
 
 </div>
----
 
 # 🚀 About Me
 
