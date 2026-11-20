@@ -21,16 +21,8 @@
 
 </div>
 
-
-<!-- <div align="center">
-
-<img src="https://raw.githubusercontent.com/Shifannv/Shifannv/main/assets/wave-banner.svg" width="100%"/>
-
-</div> -->
 <div align="center">
 
-<!-- Wave banner -->
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi+%F0%9F%91%8B%2C+I'm%20Shifan%20NV&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer&descAlignY=60&descSize=20" width="100%"/>  -->
 <img
     src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3pkMHBhd2h5dHBleGRoZDV0a2UzemhwaWE5ODEzcGU5ZDRjcXZmeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif"
     alt="Coding GIF"
@@ -44,8 +36,7 @@
 
 <!-- Status badges -->
 <!-- ![Open to Work](https://img.shields.io/badge/-OPEN%20TO%20WORK-2ea043?style=for-the-badge) -->
-![Location](https://img.shields.io/badge/-KERALA-333?style=for-the-badge&logo=googlemaps&logoColor=white)
-![Country](https://img.shields.io/badge/-INDIA-6f42c1?style=for-the-badge)
+
 
 <br/>
 
@@ -53,7 +44,6 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+Superbase+%E2%80%A2+Cloudinary;Building+modern+web+experiences;Always+learning+new+things)](https://git.io/typing-svg)
 
 <br/>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
